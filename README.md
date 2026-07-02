@@ -23,6 +23,6 @@ Navigate to `Source/Android` and run:
 
 ### Installation (Mandatory ADB Override)
 Because this build targets API 21, standard installation will be blocked by modern Android security policies. Use ADB:
-`adb install --bypass-low-target-sdk-block app-debug.apk`
+`adb install --bypass-low-target-sdk-block Dolphin2018TDEV.apk `
 
 
